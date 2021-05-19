@@ -1,12 +1,10 @@
-# CodersCamp 2020 - Projekt HTML & CSS
-
 **Nazwa projektu:** Portfolio
 
 **Wykonawca:** Mateusz Baciak
 
 **Użyte technologie:**
 - HTML
-- CSS/SCSS/
+- CSS/SCSS
 
 **Dodatkowwe narzędzia:**
 - Font Awesome
